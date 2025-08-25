@@ -1,6 +1,4 @@
-// COP 3330 FINAL PROJECT
-// Daniel Azran, Daniel Wilson, Richard Wright, Andy Garcia
-// path: C:\Users\pondu\Downloads\lec.txt
+
 
 
 import java.io.*;
@@ -1149,4 +1147,5 @@ class DeleteLectureByCRN{
         	e.printStackTrace();
     	}
 	}
+
 }
