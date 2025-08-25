@@ -1,4 +1,4 @@
-
+// src main
 import java.util.Scanner;
 
 class DisjointSet {
@@ -88,4 +88,5 @@ public class Main {
             System.out.println((result[i] == 1) ? "YES" : "NO");
         }
     }
+
 }
